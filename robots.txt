@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://iplesh.github.io/dmitry-pleshko-portfolio/sitemap.xml
